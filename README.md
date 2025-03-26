@@ -18,9 +18,6 @@ The program presents a standard 9x9 Sudoku grid where users can input the initia
 *   A "Clear" button that resets the grid to an empty state.
 *   Basic window management (centering, fixed size).
 
-*(Optional: Add a screenshot of the running application here)*
-<!-- ![Screenshot](screenshot.png) -->
-
 ## Requirements
 
 *   **Operating System:** Microsoft Windows
