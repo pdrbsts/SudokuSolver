@@ -7,7 +7,7 @@ This is a simple graphical Sudoku solver application for Microsoft Windows, writ
 The program presents a standard 9x9 Sudoku grid where users can input the initial numbers of a puzzle. It features:
 
 *   A graphical user interface (GUI) with a 9x9 grid of input boxes.
-*   Input validation: Only digits '1' through '9' and space are accepted in the cells.
+*   Input validation: Only digits '1' through '9' are accepted in the cells.
 *   Arrow key navigation between cells.
 *   Automatic focus advancement to the next cell when a digit or space is entered.
 *   Backspace functionality to clear a cell and move focus backward.
