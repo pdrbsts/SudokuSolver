@@ -34,7 +34,7 @@ You can compile the program using the Microsoft Visual C++ compiler (`cl.exe`) e
 
 ### Option 1: Using `build.bat` (Recommended Easy Way)
 
-1.  Create a new text file in the *same directory* as `sudoku_solver.c`.
+1.  Create a new text file in the *same directory* as `main.c`.
 2.  Paste the following content into the text file:
 
     ```bat
